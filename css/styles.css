@@ -1,0 +1,19 @@
+.def1 {
+  display: none;
+}
+
+
+.well {
+  display: inline-block;
+  height: 180px;
+  width: 225px;
+  background-color: #FDFAE4;
+  text-align: center;
+  font-family: monospace;
+  color: #4f4f4f;
+}
+
+body {
+  padding: 10px;
+  background-color: #8f6e56;
+}
